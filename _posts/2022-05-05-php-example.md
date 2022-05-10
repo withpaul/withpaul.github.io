@@ -1,5 +1,5 @@
 ---
-title:  "PHP 포스팅입니다."
+title:  "PHP 포스팅s입니다."
 categories: coding
 tag: [php, laravel]
 toc: true
